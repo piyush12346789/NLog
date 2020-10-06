@@ -1,0 +1,7 @@
+﻿2020-10-03 09:33:55.9934|DEBUG|NLogDemo.LogNLog|Debug successful: sum()
+2020-10-03 09:33:56.1660|INFO|NLogDemo.LogNLog|Sum method passed, result 11
+2020-10-03 09:47:38.5293|DEBUG|NLogDemo.LogNLog|Debug successful: sum()
+2020-10-03 09:47:38.6584|ERROR|NLogDemo.LogNLog|Expecting null value
+2020-10-03 09:47:38.6584|WARN|NLogDemo.LogNLog|a or b should not equal to zero
+2020-10-03 09:47:38.6584|DEBUG|NLogDemo.LogNLog|Debug successful: sum()
+2020-10-03 09:47:38.6584|INFO|NLogDemo.LogNLog|Sum method passed, result 3
